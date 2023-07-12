@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am Sagar Raj Roul. My main interest lies in Machine Learning , Blockchain and Quantum computing. I also have basic knowledge of AWS ,Tableau and Docker. I am always curious to learn something new.
+I am Sagar Raj Roul. My main interest lies in Machine Learning , Blockchain and Quantum computing. I am always curious to learn something new.
 
 - 🔭 I’m currently a postgraduate fresher form VSSUT, Burla.
 - 🌱 I’m currently learning best practices for ML and Blockchain.
