@@ -4,7 +4,7 @@
 
 I am Sagar Raj Roul. My main interest lies in API and  Machine Learning . I am always curious to learn something new.
 
-- 🔭 I’m currently a postgraduate fresher form VSSUT, Burla.
+- 🔭 I’m currently a Python Devloper at Cozentus.
 - 🌱 I’m currently learning best practices for ML and API.
 - 👯 I’m looking to collaborate on any AI or API project.
 - 🤔 I’m looking for help with AWS and Docker model deployment.
